@@ -1,7 +1,6 @@
 # REV-IP
-([![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5B50BE0&background=0C342E00&width=433&height=52&lines=Jai+Siya+Ram;REV+IP+TOOL;Developed+By+Mr.Grey+Hacker;INDIAN+CYBER+FORCE;Mr.Grey+Hacker+Founder+Of+Team+ICF;Hawk%2C+Arhaan%2C+4NON_4K5K%2CCYBER-REPAR%2CUnknown404%2CMr.Grey+Hacker)](https://git.io/typing-svg))
-# Find Me
-Reverse IP Tool 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5B50BE0&background=0C342E00&width=433&height=52&lines=Jai+Siya+Ram;REV+IP+TOOL;Developed+By+Mr.Grey+Hacker;INDIAN+CYBER+FORCE;Mr.Grey+Hacker+Founder+Of+Team+ICF;Hawk%2C+Arhaan%2C+4NON_4K5K%2CCYBER-REPAR%2CUnknown404%2CMr.Grey+Hacker)](https://git.io/typing-svg))
+
  # What is REV-IP?
 REV-IP Tool Is Free Open Source Reverse IP Tool,
 
