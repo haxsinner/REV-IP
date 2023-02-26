@@ -5,9 +5,9 @@
 REV-IP Tool Is Free Open Source Reverse IP Tool,
 
 ## Features
-[+]Free Open Source
-[+]Unlimited Domain Generate, No Limit
-[+]Fastest Reverse Generate Tool
+- [+]Free Open Source
+- [+]Unlimited Domain Generate, No Limit
+- [+]Fastest Reverse Generate Tool
 
 <h4> Installation Instractuions </h4>
 
